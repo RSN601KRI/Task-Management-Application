@@ -220,5 +220,3 @@ This project is licensed under the **MIT License**.
 Feel free to use, modify, and distribute with attribution.
 
 **Built with ❤️ using React + TypeScript + MSW + Tailwind CSS**
-
-```
